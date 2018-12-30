@@ -32,4 +32,4 @@ var e=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0});var n=
 },{"./ContextMenu":"sGSY"}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("react")),t=u(require("react-dom")),r=u(require("react-rightclickmenu"));function u(e){return e&&e.__esModule?e:{default:e}}var l=function(){return e.default.createElement("div",{style:{padding:20,height:300,background:"grey"}},e.default.createElement(r.default,null,e.default.createElement("div",null,"Hey from contextmenu")))};t.default.render(e.default.createElement(l,null),document.getElementById("root"));
 },{"react":"HdMw","react-dom":"X9zx","react-rightclickmenu":"VNNP"}]},{},["Focm"], null)
-//# sourceMappingURL=/example.3f0e1d13.map
+//# sourceMappingURL=example.3f0e1d13.map
