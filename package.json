@@ -5,7 +5,8 @@
   "main": "lib/index.js",
   "scripts": {
     "watch": "babel --watch src --out-dir lib",
-    "prettier": "prettier src/*.js --write"
+    "prettier": "prettier src/*.js --write",
+    "deploy": "gh-pages -d dist" 
   },
   "repository": {
     "type": "git",
@@ -39,6 +40,7 @@
     "@babel/plugin-proposal-class-properties": "^7.2.3",
     "@babel/preset-env": "^7.2.3",
     "@babel/preset-react": "^7.0.0",
+    "gh-pages": "^2.0.1",
     "prettier": "^1.15.3",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
