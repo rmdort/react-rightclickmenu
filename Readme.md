@@ -24,7 +24,7 @@ const App = () => {
 }
 ````
 
-## Caveats
+## Caveats to note
 
 1. Does not support nesting
 2. Menu is always added to the parent node
