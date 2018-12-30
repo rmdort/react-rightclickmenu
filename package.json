@@ -1,0 +1,46 @@
+{
+  "name": "react-rightclickmenu",
+  "version": "1.0.0",
+  "description": "A simple context menu component for React",
+  "main": "lib/index.js",
+  "scripts": {
+    "watch": "babel --watch src --out-dir lib",
+    "prettier": "prettier src/*.js --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "://github.com/rmdort/react-rightclickmenu.git"
+  },
+  "bugs": {
+    "url": "://github.com/rmdort/react-rightclickmenu/issues"
+  },
+  "keywords": [
+    "react",
+    "contextmenu",
+    "context menu",
+    "right click menu"
+  ],
+  "author": "Vinay M <rmdort@gmail.com>",
+  "license": "ISC",
+  "prettier": {
+    "semi": false
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react-onclickoutside": "^6.7.1"
+  },
+  "peerDependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.2.3",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "prettier": "^1.15.3",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
