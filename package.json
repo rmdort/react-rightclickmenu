@@ -1,6 +1,6 @@
 {
   "name": "react-rightclickmenu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple context menu component for React",
   "main": "lib/index.js",
   "scripts": {
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "://github.com/rmdort/react-rightclickmenu.git"
+    "url": "https://github.com/rmdort/react-rightclickmenu.git"
   },
   "bugs": {
-    "url": "://github.com/rmdort/react-rightclickmenu/issues"
+    "url": "https://github.com/rmdort/react-rightclickmenu/issues"
   },
   "keywords": [
     "react",
